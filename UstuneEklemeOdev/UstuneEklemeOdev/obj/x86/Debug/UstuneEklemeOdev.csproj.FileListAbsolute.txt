@@ -1,0 +1,33 @@
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.pdb
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Form1.resources
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Properties.Resources.resources
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
+E:\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.exe
+E:\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.pdb
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Form1.resources
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Properties.Resources.resources
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+H:\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\bin\Debug\UstuneEklemeOdev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\11.GÜN\UstuneEklemeOdev\UstuneEklemeOdev\obj\x86\Debug\UstuneEklemeOdev.pdb
